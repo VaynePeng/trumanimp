@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "楚门映像 - 视频博主个人网站",
-  description: "楚门映像 - YouTube、B站、抖音视频博主，用镜头记录真实世界，分享精彩内容",
+  title: "楚门印象 - 视频博主个人网站",
+  description: "楚门印象 - YouTube、B站、抖音视频博主，用镜头记录真实世界，分享精彩内容",
 };
 
 export default function RootLayout({
