@@ -12,7 +12,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
             <div className="text-2xl font-bold text-gray-900 dark:text-white">
-              楚门映像
+              楚门印象
             </div>
 
             {/* 桌面端导航 */}
@@ -119,7 +119,7 @@ export default function Home() {
               <Image
                 className="w-48 h-48 mx-auto mb-6 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 p-0.5"
                 src="/avatar.jpg"
-                alt="楚门映像"
+                alt="楚门印象"
                 width={192}
                 height={192}
               />
@@ -127,7 +127,7 @@ export default function Home() {
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
               你好，我是
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">
-                楚门映像
+                楚门印象
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
@@ -256,10 +256,10 @@ export default function Home() {
 
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                  楚门的影像世界
+                  楚门的印象世界
                 </h3>
                 <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-                  我是楚门映像，一位用镜头记录真实世界的视频创作者。就像《楚门的世界》中主角对真实的追求一样，
+                  我是楚门印象，一位用镜头记录真实世界的视频创作者。就像《楚门的世界》中主角对真实的追求一样，
                   我致力于用最真诚的视角，记录生活中每一个珍贵的瞬间。
                 </p>
                 <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
@@ -335,7 +335,7 @@ export default function Home() {
                   <h3 className="font-semibold text-gray-900 dark:text-white">
                     微博
                   </h3>
-                  <p className="text-gray-600 dark:text-gray-300">@楚门映像</p>
+                  <p className="text-gray-600 dark:text-gray-300">@楚门印象</p>
                 </div>
               </a>
             </div>
@@ -347,7 +347,7 @@ export default function Home() {
       <footer className="bg-gray-900 text-white py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <p className="text-gray-400">© 2024 楚门映像. 保留所有权利.</p>
+            <p className="text-gray-400">© 2024 楚门印象. 保留所有权利.</p>
             <div className="mt-4 flex justify-center space-x-6">
               <a
                 href="#"
